@@ -6,7 +6,7 @@ TurtleScript Language Extension handles all of your TurtleScript needs.
 
 This extension can hightlight keywords for the TurtleScript Language
 
-\!\[Turtle\]\(images/icon-cropped-small.png\)
+![Turtle](https://raw.githubusercontent.com/Skiffy106/turtle-script-lang/refs/heads/master/images/icon.webp)
 
 > You are Awesome!
 
