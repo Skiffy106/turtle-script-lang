@@ -1,0 +1,35 @@
+{
+  "name": "turtle-script-lang",
+  "displayName": "turtle-script",
+  "description": "Syntax hilighting support for TurtleScript by Mason Tuttle",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "turtle",
+        "aliases": [
+          "TurtleScript",
+          "turtle"
+        ],
+        "extensions": [
+          ".trtl",
+          ".turtle"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "turtle",
+        "scopeName": "source.turtle-script",
+        "path": "./syntaxes/turtle.tmLanguage.json"
+      }
+    ]
+  }
+}
