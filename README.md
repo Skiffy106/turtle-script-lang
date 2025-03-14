@@ -8,8 +8,6 @@ This extension can hightlight keywords for the TurtleScript Language
 
 ![Turtle](https://raw.githubusercontent.com/Skiffy106/turtle-script-lang/refs/heads/master/images/icon.webp)
 
-> You are Awesome!
-
 ## Requirements
 
 None!
